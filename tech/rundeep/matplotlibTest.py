@@ -1,4 +1,4 @@
-# encoding = utf-8
+# encoding: utf-8
 import numpy as np
 """
 from http://www.imooc.com/learn/843
