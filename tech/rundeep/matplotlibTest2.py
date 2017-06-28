@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 """
 from http://www.imooc.com/learn/843
-3.2 demo
+慕课 3.2 demo
 """
 
 

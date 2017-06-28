@@ -2,7 +2,7 @@
 import numpy as np
 """
 from http://www.imooc.com/learn/843
-3.2 demo
+慕课 3.2 demo
 """
 
 
